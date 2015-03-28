@@ -10,7 +10,7 @@ module.exports = function(grunt){
           style: 'expanded'
         },
         files: {                    
-          'css/style.css': 'sass/test.scss'   //生成されるcss:’参照元のscss'
+          'css/style.css': 'sass/style.scss'   //生成されるcss:’参照元のscss'
         }
       }
     },
